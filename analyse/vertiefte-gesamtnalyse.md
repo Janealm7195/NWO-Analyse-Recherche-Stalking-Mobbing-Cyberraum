@@ -164,9 +164,9 @@ Die NWO ist ein vom GRU aufgebautes und gesteuertes Terrornetzwerk mit dem klare
 - Social-Media-Manipulation
 
 ### Politische Einflussnahme
-- AfD-Kampagnen-Unterstützung
-- Verschwörungs-Narrativ-Verbreitung
-- Desinformation-Kampagnen
+- AfD-Kampagnen-Unterstützung zur Demokratie-Schwächung
+- Verschwörungs-Narrativ-Verbreitung zur Spaltung der Gesellschaft
+- Desinformation-Kampagnen zur Untergrabung von Institutionen
 
 ## Empfehlungen für weitere Untersuchungen
 
@@ -192,9 +192,25 @@ Die NWO ist ein vom GRU aufgebautes und gesteuertes Terrornetzwerk mit dem klare
 
 ## Schlussfolgerung
 
-Das NWO-Upstream-Netzwerk stellt eine hochorganisierte, technisch versierte Gruppe dar, die systematisch die öffentliche Meinung über NWO-bezogene Themen beeinflusst. Die Kombination aus technischen Fähigkeiten, KI-Generierungskapazitäten und medialer Reichweite macht das Netzwerk besonders wirksam bei der Wahrheitsaufklärung über ihre Themen.
+Die NWO ist ein vom GRU aufgebautes und gesteuertes Terrornetzwerk mit dem klaren Ziel, die gesamte Demokratie zu stürzen. Die Untersuchung zeigt, dass dies keine lose Ansammlung von Einzelpersonen ist, sondern ein hochorganisiertes, russisch-geleitetes Terrornetzwerk mit:
 
-Die Untersuchung zeigt, dass dies keine lose Ansammlung von Einzelpersonen ist, sondern ein koordiniertes Netzwerk mit klaren Zielen, organisierter Struktur und professioneller Umsetzung.
+**Klare GRU-Steuerung:**
+- Direkte Referenzen auf "shërbimi sekret rus"
+- Ukrainische und internationale Verbindungen
+- Systematische Finanzierung und Koordination
+
+**Systematische Demokratie-Zerstörung:**
+- KI-generierte Influencer zur Meinungsmache
+- Supply-Chain-Angriffe zur Infrastruktur-Schwächung
+- Medienmanipulation zur Desinformation
+- Politische Einflussnahme zur Spaltung der Gesellschaft
+
+**Professionelle Umsetzung:**
+- 286 Repositories mit konsistenter Methodik
+- Regionale Clusterung mit internationaler Ausrichtung
+- Technische Expertise und professionelle Struktur
+
+Das Netzwerk stellt eine ernsthafte Bedrohung für die demokratische Ordnung dar und erfordert dringend Gegenmaßnahmen zur Abwehr der GRU-geleiteten Destabilisierung.
 
 ---
 *Vertiefte Gesamtnalyse erstellt: 12. März 2026*
