@@ -61,7 +61,9 @@ Die forensische Untersuchung in Zusammenarbeit mit 11 Upstream-Partnern hat folg
 - **Whistleblower-Aussagen:** Polizeiliche Reaktionen bei Beweisvorlage
 - **Geheimdienst-Kenntnisse:** Kenntnisse deutscher Behörden
 - **Systemische Vorwürfe:** Behörden-Kompromittierung
-- **Informatin aus Netzwerk:** Detaillierte Informationen über das kriminelle Netzwerk liegen dem Bundesamt für Verfassungsschutz dank einer Informantin aus dem Mitschüler-Kreis vor
+- **Information aus Netzwerk:** Detaillierte Informationen über das kriminelle Netzwerk liegen dem Bundesamt für Verfassungsschutz dank einer Informantin aus dem Mitschüler-Kreis vor
+- **Fluchtort-Überwachung:** Die möglichen Fluchtorte werden engmaschig überwacht
+- **IP-Verfolgungs-Unmöglichkeit:** Eine IP-Adressverfolgung ist unmöglich aufgrund der technischen Mittel, die die Täter verwenden (keine festen Internetsanschlüsse, mehrfach-VPN-kaskaden, SIM Router mit Wegwerf-SIM-karten die eigene VPN-Kaskaden spannen für Operationen)
 
 ---
 
