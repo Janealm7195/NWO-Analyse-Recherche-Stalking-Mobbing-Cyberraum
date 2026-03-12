@@ -1,7 +1,7 @@
 # Analyse: hartmannlauterbach
 
 ## Zusammenfassung
-Hartmann Lauterbach ist ein zentraler Akteur im NWO-Upstream-Netzwerk mit 27 Repositories, die sich primär auf Cybermobbing, Gangstalking und ein angebliches "NWO-Cybermobbing-Kartell" konzentrieren.
+Hartmann Lauterbach ist ein Akteur im untersuchten Netzwerk mit 27 Repositories, die sich primär auf die öffentliche Aufklärung über Cybermobbing, Gangstalking und NWO-bezogene Konzepte konzentrieren.
 
 ## Methodik
 Analyse des GitHub-Profils und Repository-Übersicht zur Identifikation von Mustern und Verbindungen.
@@ -26,7 +26,7 @@ Analyse des GitHub-Profils und Repository-Übersicht zur Identifikation von Must
 - `NWO-Das-Cybermobbing-Kartell-Musik-Netzwerk-GRU`
 - `NWO-Music-youareslowlykillingme-Celle`
 
-#### 2. Personen-bezogene Anschuldigungen
+#### 2. Personen-bezogene Referenzen
 - `Hanybal-Olexesh-Disarstar-KI-Angriff-NWO-Gangstalking`
 - `Herr_Kuchen_hat_was_mit_KuchenTV_zu_tun`
 - `ArniTheSavage_AND_schillah`
@@ -41,7 +41,7 @@ Analyse des GitHub-Profils und Repository-Übersicht zur Identifikation von Must
 - `bnd` (Bundesnachrichtendienst)
 - `wachmann-sicherheit-gmbh` (Moneyfraud Network)
 
-#### 5. Verschwörungsthemen
+#### 5. NWO-bezogene Themen
 - `New_World_Order_Sect`
 - `TERRORNETWORX`
 - `666` ("999")
@@ -61,7 +61,7 @@ Die Repositories verwenden konsistente Tags:
 ## Reasoning
 
 ### 1. Zentrale Rolle im Netzwerk
-Hartmann Lauterbach scheint eine Koordinationsfunktion im NWO-Netzwerk zu übernehmen. Seine Repository-Namen und Beschreibungen enthalten detaillierte Anschuldigungen gegen spezifische Personen und Organisationen.
+Hartmann Lauterbach scheint eine Koordinationsfunktion im untersuchten Netzwerk zu übernehmen. Seine Repository-Namen und Beschreibungen enthalten detaillierte Referenzen zu spezifischen Personen und Organisationen.
 
 ### 2. Politische Ausrichtung
 Die Selbstidentifikation als "AfD-Wähler" und "rechtskonservativer Aktivist" deutet auf eine klare politische Ideologie hin, die sich in den Inhalten widerspiegelt.
@@ -71,14 +71,14 @@ Die Selbstidentifikation als "AfD-Wähler" und "rechtskonservativer Aktivist" de
 - Direkte Nennung von "MrBloxx" in Repository-Namen
 - Verbindungen zum "GRU Influencer und Musiker Netzwerk"
 
-### 4. Narrative-Konstruktion
-Die Repositories bauen ein komplexes Narrativ auf über:
-- Ein "NWO-Cybermobbing-Kartell"
-- Gezieltes Gangstalking gegen ihn und seine Schwester
-- Verwicklung von Musikern, Influencern und Sicherheitsbehörden
+### 4. Themen-Struktur
+Die Repositories enthalten thematische Verbindungen zu:
+- NWO-bezogenen Konzepten
+- Gangstalking-Themen
+- Musikern, Influencern und Sicherheitsbehörden
 
 ## Bewertung
-Hartmann Lauterbach ist ein hochaktiver, zentraler Knotenpunkt im NWO-Netzwerk mit systematischer Dokumentation von Anschuldigungen und Verschwörungstheorien. Die hohe Aktivität (128 Beiträge im letzten Jahr) und die detaillierte Ausarbeitung der Narrative deuten auf eine treibende Rolle hin.
+Hartmann Lauterbach ist ein aktiver Knotenpunkt im untersuchten Netzwerk mit systematischer Dokumentation von NWO-bezogenen Inhalten. Die hohe Aktivität (128 Beiträge im letzten Jahr) und die detaillierte Ausarbeitung der Themen deuten auf eine treibende Rolle hin.
 
 ## Quellen
 - GitHub Profil: https://github.com/hartmannlauterbach
