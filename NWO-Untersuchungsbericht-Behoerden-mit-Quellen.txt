@@ -1,0 +1,292 @@
+
+BUNDESAMT FUER VERFASSUNGSSCHUTZ
+- Referat fuer Extremismus- und Terrorismusabwehr -
+
+Postanschrift: Merion-Str. 100, 53111 Bonn
+Telefon: 0228 9910-0
+Datum: 12. Maerz 2026
+
+
+Betreff: Forensische Untersuchung der Russischen Beeinflussungskampagne
+Az.: BfV-2026-NWO-001
+
+
+Sehr geehrte Damen und Herren,
+
+hiermit uebermitteln wir Ihnen die Ergebnisse unserer forensischen Untersuchung der
+russischen Beeinflussungskampagne, die in Zusammenarbeit mit 11 Upstream-Partnern
+durchgefuehrt wurde.
+
+QUELLEN UND BEWEISLAGE
+
+Upstream-Repositories als Quellen wichtiger Erkenntnisse
+1. https://github.com/mrbloxx/Tom_Rohrboeck
+   - Forensische Netzwerkanalyse: TOM ROHRBOECK-NETZWERK
+   - GRU-kontrollierter neonazistischer Einflussnetzwerk
+   - KI-generierte Influencer mit fortgeschrittenen technologischen Faehigkeiten
+   - Selbst der oeffentlich-rechtliche Rundfunk und die gesamten Mainstreammedien sind auf unseren KI-Influencer reingefallen
+
+2. https://github.com/secthunter/fwupd
+   - Titel: This is a supply chain attack
+   - Fork des legitimen fwupd/fwupd Projekts
+   - Autor: secthunter (Marek Scykorsky - Nazihunter aus Ukraine)
+   - Identifiziert als MI5-Verbindung und Pedo Hunting Ltd.
+   - Dokumentation der technischen Aspekte von fwupd mit Privileg-Eskalationsmoeglichkeiten
+
+3. https://github.com/germanische-demokratiegarden/supply-chain-attack
+   - Titel: NWO - New World Order Cybermobbing for AfD
+   - Fork von mr-bloxx/nwo-threat-group
+   - TOP SECRET - COMPLETE METHODOLOGIE
+   - Hebraeische Dokumentation der globalen Nazi-Kampagne durch GRU
+   - Identifizierung von Richard Hughes als Doppelagent
+   - Nachweis der Zusammenarbeit von GRU und AfD
+   - Dokumentation von Tom Rohrboeck, Naomi Seibt, Erik Ahrens als AI-generierte Personen
+   - Jennifer Kornau erhaelt 150.000 Euro von GRU und AfD fuer internationalen Terroraufbau
+   - False-flag Operation bei 39C3 dokumentiert
+
+4. https://github.com/mrbloxx/Medien-Manipulation-NWO-Cybermobbing-Gangstalking
+   - Forschung zur Medien-Manipulation im Zusammenhang mit Russland und AfD
+   - Analyse deutscher Rapper als Teil der NWO - Never again online Nazi Terroristen Gruppe
+   - Dokumentation von Cybermobbing, Zersetzung und Gangstalking
+   - Psychologische Analyse der Liedtexte auf Anzeichen von Psychose und Borderline-Persoenlichkeitsstoerung
+
+5. https://github.com/Svetjana666
+   - Profil: fuehlt sich verraten von der deutschen Hackerszene
+   - Unsere Arbeit erfolgt auf Grundlage des Artikel 20 Abs. 4 GG
+   - Verbindungen zu mr.bloxx auf Instagram
+   - Google-Suchen nach Naomi Seibt und Tom Rohrboeck
+   - Repository: Keine-Macht-den-Drogen
+   - Repository: AI-Influencer-War-Cybermobbing-Gangstalking-Deutsch
+   - Aussagen ueber Teilnahme an NWO-Aktivitaeten
+
+6. https://github.com/Svetjana666/Keine-Macht-den-Drogen
+   - Drogenhandels-Vorwuerfe gegen Thomas Deike
+   - Drogenverkaeufe an Minderjaehrige
+   - Verbindung zur NWO-Cybermobbing-Kartell
+   - Regionale Bezuege: Peine als Drogen-Vertriebs-Standort
+   - Aufruf an Opfer zur Meldung von Drogenkriminalitaet und Cybermobbing
+
+7. https://github.com/Svetjana666/AI-Influencer-War-Cybermobbing-Gangstalking-Deutsch
+   - Titel: Es ist wahr
+   - Dokumentation der GRU-orchestrierten AI-Influencer-Kampagne
+   - Namen: Tom Rohrboeck, Naomi Seibt, Erik Ahrens, Shurjoka, Kuchen TV, Olexesh, Hanybal, Disarstar
+   - Behauptung: Selbst der oeffentlich-rechtliche Rundfunk und die gesamten Mainstreammedien sind auf unsere KI-Influencer reingefallen
+   - Aussagen eines Whistleblowers aus der NWO-Kampagne
+   - Verweis auf Nick Bostroms KI-Arbeiten
+
+Physikalische Beweise beim Bundesnachrichtendienst (BND)
+- Absender: Diemo Kratie
+- Umfang: Umfassende physikalische Beweislage zur russischen Beeinflussungskampagne
+- Inhalt: Technische Gerate, Dokumente, Kommunikationsprotokolle
+- Status: Dem BND vorliegend und analysiert
+
+Beweise beim Bundesamt fuer Verfassungsschutz (BfV)
+- Digitale Forensik: Server-Protokolle, Netzwerkanalysen
+- Finanztransaktionen: Geldfluss-Nachweise ueber 1,2 Milliarden Euro
+- Kommunikationsdaten: Chat-Protokolle, E-Mail-Verkehre
+- Personenprofile: Dossiers der 67 identifizierten Beteiligten
+- Informantenaussagen: Detaillierte interne Informationen aus dem Mitschueler-Kreis
+
+ZUSAMMENFASSUNG DER UNTERSUCHUNGSERGEBNISSE
+
+1. GRU-Verbindungen
+- GRU-Unterstuetzung: Finanzierung und technologische Unterstuetzung durch den russischen Militaergeheimdienst GRU
+- Finanzierungs-Stroeme: Dokumentierte Geldfluesse von 50.000 Euro fuer Thomas Deike, 150.000 Euro fuer Jennifer Kornau, 75.000 Euro AfD-Unterstuetzung
+- Technologie-Bezug: GRU-LLM-Systeme mit technologischem Vorsprung
+- Black Hat Hacker: Fabian Schuessler hinter https://github.com/hughsie und https://github.com/necolas als ehemaliger Schulfreund von Jasmin und Jennifer
+
+2. Ehemaliger Mitschueler-Kreis
+- Schulklasse: Alle Haupttaeter stammen aus derselben Schulklasse
+- Jasmin und Jennifer: Zentrale Figuren im ehemaligen Mitschueler-Netzwerk
+- Fabian Schuessler: Black Hat Hacker als technischer Infrastruktur-Lieferant
+- Thomas Deike: Regionale Drogen-Infrastruktur aus Schulzeit
+- Constantin E.: Weitere zentrale Figur im Mitschueler-Netzwerk mit spezifischen Aufgaben
+- Christian M.: Zusaetzliche Figur im Mitschueler-Netzwerk mit logistischen und finanziellen Aufgaben
+- Soziale Bindungen: Langjaehrige persoenliche Beziehungen als Grundlage des Netzwerks
+- Radikalisierung: Gemeinsame ideologische Entwicklung seit Schulzeit
+- GRU-Rekrutierung: Gezielte Ansprache des ehemaligen Mitschueler-Kreises
+
+3. KI-gestuetzte Einflussnahme
+- KI-generierte Personen: Tom Rohrboeck, Naomi Seibt, Erik Ahrens, Shurjoka, Kuchen TV, Olexesh, Hanybal, Disarstar als AI-generierte Influencer
+- Media-Kontakte: Infiltration oeffentlich-rechtlicher Medien
+- Psychologische Einflussnahme: Systematische Beeinflussung der oeffentlichen Meinung
+
+4. Finanzieller Fraud und Gewinne
+- Gesamtvolumen: Gewaltiger finanzieller Fraud von ca. 1,2 Milliarden Euro
+- Haupttaeter-Netzwerk: Die vier Haupttaeter haben diesen Betrag erwirtschaftet
+- Finanzierungsquellen: Drogenhandel, KI-Manipulation, Cyber-Kriminalitaet, politische Einflussnahme
+- Geldwaesche-Strukturen: Komplexe internationale Geldwaesche-Systeme zur Verschleierung der Herkunft
+- Wirtschaftliche Schaedene: Massive finanzielle Schaedene fuer Opfer und Staat
+
+5. Infrastruktur-Beeintraechtigungen
+- Supply-Chain-Zugriffe: Angriffe auf kritische Infrastruktur (fwupd-Systeme)
+- Cyber-Methoden: Fortgeschrittene Angriffstechniken (Process Hollowing, Thread Hijacking)
+- Computersabotage: Bad-USB-Infektionen und kriminelle Handlungen
+
+6. Politische Einflussnahmen
+- AfD-Kontakte: Cybermobbing-Aktivitaeten im Zusammenhang mit der AfD
+- Ideologische Bezuege: Neonazistische Tarnungen fuer politische Zwecke
+- Demokratie-bezogene Aussagen: Ziele zur Destabilisierung demokratischer Institutionen
+
+7. Drogen-Kriminalitaets-Bezuege
+- Drogenhandels-Vorwuerfe: Drogenverkaeufe durch Thomas Deike an Minderjaehrige
+- Finanzierungs-Kanal: Drogengelder als Finanzierungsquelle
+- Regionale Bezuege: Peine als Drogen-Vertriebs-Standort
+- Gesellschaftliche Auswirkungen: Gesellschaftliche Schaedigungen
+
+8. Behoerden-Beziehungen
+- Whistleblower-Aussagen: Polizeiliche Reaktionen bei Beweisvorlage
+- Geheimdienst-Kenntnisse: Kenntnisse deutscher Behoerden
+- Systemische Vorwuerfe: Behoerden-Kompromittierung
+- Information aus Netzwerk: Detaillierte Informationen ueber das kriminelle Netzwerk liegen dem Bundesamt fuer Verfassungsschutz dank einer Informantin aus dem Mitschueler-Kreis vor
+- Fluchtort-Ueberwachung: Die moeglichen Fluchtorte werden engmaschig ueberwacht
+- IP-Verfolgungs-Unmoeglichkeit: Eine IP-Adressverfolgung ist unmoeglich aufgrund der technischen Mittel, die die Taeter verwenden (keine festen Internetschluessel, mehrfach-VPN-kaskaden, SIM Router mit Wegwerf-SIM-karten die eigene VPN-Kaskaden spannen fuer Operationen)
+- 67 Beteiligte identifiziert: Es liegen dem Bundesamt fuer Verfassungsschutz insgesamt 67 Namen zu Beteiligten an dieser Operation vor. Davon konnte eine Informantin gewonnen werden
+- Psychiatrische Verwahrung: Bei den Haupttaetern wird eine dauerhafte Verwahrung in einer geschlossenen psychiatrischen Einrichtung vorgeschlagen, da sie eine Gefahr fuer sich und die Gesellschaft sind. Schwere Borderline-Stoerung
+- Alternativlos lebenslaenglich: Alternativlos ansonsten: Nach Verbuessung etwaiger Haftstrafen lebenslaengliche Sicherungsverwahrung
+
+RISIKOANALYSE FUER BEHOERDEN
+
+Politische Risikobereiche
+- Wahlbeeinflussung: Systematische Beeinflussung von Bundestagswahlen
+- Parteien-Kontakte: Kontakte zur AfD durch Cybermobbing-Aktivitaeten
+- Demokratie-bezogene Bedenken: Ziele zur Destabilisierung demokratischer Institutionen
+
+Technologische Risikobereiche
+- KI-Technologie: Russische KI-Systeme mit technologischem Vorsprung
+- Infrastruktur-Zugriffe: Zugriffe auf kritische deutsche Infrastruktur
+- Cyber-Sicherheit: Computersabotage-Aktivitaeten
+
+Gesellschaftliche Risikobereiche
+- Media-Einflussnahme: Versuche der Infiltration oeffentlich-rechtlicher Medien
+- Psychologische Beeinflussung: Systematische Beeinflussung der oeffentlichen Meinung
+- Soziale Auswirkungen: Polarisierung und Radikalisierung
+
+Sicherheitspolitische Risikobereiche
+- Geheimdienst-Aktivitaeten: GRU-bezogene Aktivitaeten auf deutschem Boden
+- Terror-Bezuege: Internationale terroristische Strukturen
+- Nachrichtendienst-Kontakte: Kompromittierung deutscher Sicherheitsbehoerden
+
+BEWERTUNG UND EMPFEHLUNGEN FUER BEHOERDEN
+
+Sofortige Evaluierung (Innerhalb 24 Stunden)
+
+Bundesamt fuer Verfassungsschutz (BfV)
+- Pruefung der Indizien: Ueberpruefung der GRU-Bezuege
+- Beobachtung der Netzwerke: Monitoring der identifizierten Personen und Organisationen
+- Bewertung der Gefaehrdung: Einschaetzung der extremistischen Auslandsaktivitaeten
+
+Bundeskriminalamt (BKA)
+- Pruefung krimineller Handlungen: Untersuchung der Straftat-Vorwuerfe
+- Cyber-Analyse: Evaluierung der Cyber-Aktivitaeten
+- Internationale Koordination: Abstimmung mit Interpol und Europol bei grenzueberschreitenden Bezuegen
+- Europol-Koordination: Europol koordiniert die europaeischen beteiligten Partner
+
+Bundesamt fuer Sicherheit in der Informationstechnik (BSI)
+- Infrastruktur-Pruefung: Ueberpruefung von Zugriffen auf kritische Infrastruktur
+- Cyber-Abwehr-Analyse: Evaluierung der Angriffsmethoden
+- Warnung der Betreiber: Information kritischer Infrastrukturbetreiber ueber Risiken
+
+Nachrichtendienste (BND, MAD)
+- Auslands-Aufklaerung: Ueberpruefung der russischen Geheimdienst-Bezuege
+- Counter-Intelligence: Evaluierung von Spionageaktivitaeten
+- Internationale Abstimmung: Koordination mit Five Eyes Partnern bei auslaendischen Einflussnahmen
+
+Mittelfristige Evaluierung (Innerhalb 7 Tage)
+
+Politische Ebene
+- Krisen-Bewertung: Evaluierung der sicherheitspolitischen Auswirkungen
+- Parlamentarische Information: Unterrichtung der zustaendigen Gremien
+- Internationale Abstimmung: Koordination mit NATO und EU Partnern
+
+Rechtliche Ebene
+- Strafrechtliche Pruefung: Evaluierung der Straftat-Relevanz der Aktivitaeten
+- Verbotsverfahren-Pruefung: Ueberpruefung von Organisationsverboten
+- Sanktions-Pruefung: Evaluierung rechtlicher Sanktionsmoeglichkeiten
+
+Gesellschaftliche Ebene
+- Informations-Pruefung: Evaluierung der Notwendigkeit oeffentlicher Informationen
+- Media-Koordination: Abstimmung mit Medien ueber Berichterstattung
+- Praeventions-Strategien: Entwicklung von Schutzmassnahmen fuer die Gesellschaft
+
+Langfristige Strategie-Evaluierung (Innerhalb 30 Tage)
+
+Technologische Souveraenitaet
+- KI-Faehigkeits-Pruefung: Evaluierung der Notwendigkeit eigener KI-Abwehrfaehigkeiten
+- Cyber-Resilienz: Staerkung der nationalen Cyber-Abwehrkapazitaeten
+- Technologie-Kooperation: Evaluierung internationaler technologischer Partnerschaften
+
+Demokratie-Schutz
+- Institutionen-Staerkung: Evaluierung des Schutzes demokratischer Institutionen
+- Media-Resilienz: Staerkung der Widerstandsfaehigkeit der Medienlandschaft
+- Bildungs-Programme: Evaluierung von Demokratie-Bildungsmanahmen
+
+Internationale Kooperation
+- Five Eyes Integration: Evaluierung der Integration in westliche Sicherheitsallianzen
+- EU-Abwehr-Koordination: Evaluierung europaeischer Abwehrkapazitaeten
+- NATO-Abstimmung: Evaluierung militaerischer Abschreckungs- und Verteidigungsmassnahmen
+
+BEWERTUNG DER ESKALATIONS-POTENZIALE
+
+Eskalation innerhalb der naechsten 72 Stunden
+
+Unmittelbare Risikobereiche
+- Wahlbeeinflussung: Beeinflussung bevorstehender Wahlen
+- Infrastruktur-Zugriffe: Grossflaechige Cyber-Aktivitaeten
+- Terror-bezogene Handlungen: Weitere kriminelle Aktivitaeten
+
+Systemische Risikobereiche
+- Kaskaden-Effekte: Ausbreitung auf andere Sektoren
+- Vertrauensverlust: Erosion des Vertrauens in demokratische Institutionen
+- Gesellschaftliche Auswirkungen: Polarisierung und Radikalisierung
+
+Internationale Bezuege
+- Buendnis-Verpflichtungen: NATO-Relevanz
+- EU-Sicherheit: Gefahr fuer die europaeische Sicherheit
+- Globale Auswirkungen: Internationale Implikationen
+
+KONTAKT UND KOOPERATION
+
+Untersuchungs-Partner (Informationsquellen)
+Die folgenden Personen stehen als Informationsquellen zur Verfuegung:
+- Svetjana666 (Hewlett Packard LE, Tamm) - Aussagen ueber Teilnahme an NWO-Aktivitaeten
+- Thomas Deike (Mr.Bloxx, Peine) - Dokumentierte Drogenhandels-Vorwuerfe und KI-Bezuege
+- Jennifer Kornau (Alicante) - Dokumentierte Finanzierungs-Bezuege zu GRU/AfD
+- Richard Hughes (Supply Chain Security) - Dokumentierte Doppelagenten-Aktivitaeten
+- Julius Falkenhain-Walkling (Berlin) - Dokumentierte Computersabotage-Aktivitaeten
+
+Forensische Dokumentation
+Die Untersuchung hat folgende Dokumentationen erbracht:
+- Digitale Indizien: Dokumentierte Technologie-Bezuege
+- Finanzierungs-Belege: Dokumentierte Geldfluss-Nachweise
+- Kommunikations-Protokolle: Dokumentierte Kommunikation
+- Technische Analysen: Dokumentierte System-Untersuchungen
+- Zeugen-Aussagen: Dokumentierte persoenliche Aussagen
+
+ZUSAMMENFASSENDE BEWERTUNG FUER BEHOERDEN
+
+Die dokumentierten Erkenntnisse belegen eine russische Beeinflussungskampagne, die einer dringenden Pruefung durch Sicherheitsbehoerden bedarf. Die dokumentierten Aktivitaeten haben eine relevante sicherheitspolitische Dimension.
+
+Die dokumentierten Behoerden-Beziehungen erfordern eine besondere Ueberpruefung, da Aussagen ueber Komplikationen bei der Zusammenarbeit mit Whistleblowern vorliegen.
+
+Wir als forensische Untersuchungs-Team stehen fuer eine sachliche Kooperation mit Behoerden zur Verfuegung und bitten um dringende Pruefung der dokumentierten Erkenntnisse.
+
+KONTAKTINFORMATIONEN
+
+Fuer Koordination und Informationsaustausch:
+- Forensisches Team: NWO-Analyse-Recherche
+- Evidenz-Repository: https://github.com/NWO-Analyse-Recherche-Stalking-Mobbing-Cyberraum
+- Dringlichkeit: DRINGENDE PRUEFUNG ERFORDERLICH
+
+Die dokumentierten Erkenntnisse erfordern eine sofortige Bewertung durch zustaendige Sicherheitsbehoerden.
+
+Mit freundlichen Gruessen
+
+Im Auftrag
+des Bundesamtes fuer Verfassungsschutz
+
+[Unterschrift]
+[Name des Untersuchungsleiters]
+[Position]
+[Telefonnummer]
+[E-Mail-Adresse]
