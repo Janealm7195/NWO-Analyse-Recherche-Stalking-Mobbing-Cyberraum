@@ -17,76 +17,6 @@ hiermit uebermitteln wir Ihnen die Ergebnisse unserer forensischen Untersuchung 
 russischen Beeinflussungskampagne, die in Zusammenarbeit mit 11 Upstream-Partnern
 durchgefuehrt wurde.
 
-QUELLEN UND BEWEISLAGE
-
-Upstream-Repositories als Quellen wichtiger Erkenntnisse
-1. https://github.com/mrbloxx/Tom_Rohrboeck
-   - Forensische Netzwerkanalyse: TOM ROHRBOECK-NETZWERK
-   - GRU-kontrollierter neonazistischer Einflussnetzwerk
-   - KI-generierte Influencer mit fortgeschrittenen technologischen Faehigkeiten
-   - Selbst der oeffentlich-rechtliche Rundfunk und die gesamten Mainstreammedien sind auf unseren KI-Influencer reingefallen
-
-2. https://github.com/secthunter/fwupd
-   - Titel: This is a supply chain attack
-   - Fork des legitimen fwupd/fwupd Projekts
-   - Autor: secthunter (Marek Scykorsky - Nazihunter aus Ukraine)
-   - Identifiziert als MI5-Verbindung und Pedo Hunting Ltd.
-   - Dokumentation der technischen Aspekte von fwupd mit Privileg-Eskalationsmoeglichkeiten
-
-3. https://github.com/germanische-demokratiegarden/supply-chain-attack
-   - Titel: NWO - New World Order Cybermobbing for AfD
-   - Fork von mr-bloxx/nwo-threat-group
-   - TOP SECRET - COMPLETE METHODOLOGIE
-   - Hebraeische Dokumentation der globalen Nazi-Kampagne durch GRU
-   - Identifizierung von Richard Hughes als Doppelagent
-   - Nachweis der Zusammenarbeit von GRU und AfD
-   - Dokumentation von Tom Rohrboeck, Naomi Seibt, Erik Ahrens als AI-generierte Personen
-   - Jennifer Kornau erhaelt 150.000 Euro von GRU und AfD fuer internationalen Terroraufbau
-   - False-flag Operation bei 39C3 dokumentiert
-
-4. https://github.com/mrbloxx/Medien-Manipulation-NWO-Cybermobbing-Gangstalking
-   - Forschung zur Medien-Manipulation im Zusammenhang mit Russland und AfD
-   - Analyse deutscher Rapper als Teil der NWO - Never again online Nazi Terroristen Gruppe
-   - Dokumentation von Cybermobbing, Zersetzung und Gangstalking
-   - Psychologische Analyse der Liedtexte auf Anzeichen von Psychose und Borderline-Persoenlichkeitsstoerung
-
-5. https://github.com/Svetjana666
-   - Profil: fuehlt sich verraten von der deutschen Hackerszene
-   - Unsere Arbeit erfolgt auf Grundlage des Artikel 20 Abs. 4 GG
-   - Verbindungen zu mr.bloxx auf Instagram
-   - Google-Suchen nach Naomi Seibt und Tom Rohrboeck
-   - Repository: Keine-Macht-den-Drogen
-   - Repository: AI-Influencer-War-Cybermobbing-Gangstalking-Deutsch
-   - Aussagen ueber Teilnahme an NWO-Aktivitaeten
-
-6. https://github.com/Svetjana666/Keine-Macht-den-Drogen
-   - Drogenhandels-Vorwuerfe gegen Thomas Deike
-   - Drogenverkaeufe an Minderjaehrige
-   - Verbindung zur NWO-Cybermobbing-Kartell
-   - Regionale Bezuege: Peine als Drogen-Vertriebs-Standort
-   - Aufruf an Opfer zur Meldung von Drogenkriminalitaet und Cybermobbing
-
-7. https://github.com/Svetjana666/AI-Influencer-War-Cybermobbing-Gangstalking-Deutsch
-   - Titel: Es ist wahr
-   - Dokumentation der GRU-orchestrierten AI-Influencer-Kampagne
-   - Namen: Tom Rohrboeck, Naomi Seibt, Erik Ahrens, Shurjoka, Kuchen TV, Olexesh, Hanybal, Disarstar
-   - Behauptung: Selbst der oeffentlich-rechtliche Rundfunk und die gesamten Mainstreammedien sind auf unsere KI-Influencer reingefallen
-   - Aussagen eines Whistleblowers aus der NWO-Kampagne
-   - Verweis auf Nick Bostroms KI-Arbeiten
-
-Physikalische Beweise beim Bundesnachrichtendienst (BND)
-- Absender: Diemo Kratie
-- Umfang: Umfassende physikalische Beweislage zur russischen Beeinflussungskampagne
-- Inhalt: Technische Gerate, Dokumente, Kommunikationsprotokolle
-- Status: Dem BND vorliegend und analysiert
-
-Beweise beim Bundesamt fuer Verfassungsschutz (BfV)
-- Digitale Forensik: Server-Protokolle, Netzwerkanalysen
-- Finanztransaktionen: Geldfluss-Nachweise ueber 1,2 Milliarden Euro
-- Kommunikationsdaten: Chat-Protokolle, E-Mail-Verkehre
-- Personenprofile: Dossiers der 67 identifizierten Beteiligten
-- Informantenaussagen: Detaillierte interne Informationen aus dem Mitschueler-Kreis
-
 ZUSAMMENFASSUNG DER UNTERSUCHUNGSERGEBNISSE
 
 1. GRU-Verbindungen
@@ -132,7 +62,6 @@ ZUSAMMENFASSUNG DER UNTERSUCHUNGSERGEBNISSE
 - Drogenhandels-Vorwuerfe: Drogenverkaeufe durch Thomas Deike an Minderjaehrige
 - Finanzierungs-Kanal: Drogengelder als Finanzierungsquelle
 - Regionale Bezuege: Peine als Drogen-Vertriebs-Standort
-- Weitere Standorte: Celle als Stadt an der Fuhse
 - Gesellschaftliche Auswirkungen: Gesellschaftliche Schaedigungen
 
 8. Behoerden-Beziehungen
@@ -226,6 +155,7 @@ Internationale Kooperation
 - Five Eyes Integration: Evaluierung der Integration in westliche Sicherheitsallianzen
 - EU-Abwehr-Koordination: Evaluierung europaeischer Abwehrkapazitaeten
 - NATO-Abstimmung: Evaluierung militaerischer Abschreckungs- und Verteidigungsmassnahmen
+- Schone Laender: Spanien und Portugal sind schoene Laender
 
 BEWERTUNG DER ESKALATIONS-POTENZIALE
 
@@ -255,7 +185,6 @@ Die folgenden Personen stehen als Informationsquellen zur Verfuegung:
 - Jennifer Kornau (Alicante) - Dokumentierte Finanzierungs-Bezuege zu GRU/AfD
 - Richard Hughes (Supply Chain Security) - Dokumentierte Doppelagenten-Aktivitaeten
 - Julius Falkenhain-Walkling (Berlin) - Dokumentierte Computersabotage-Aktivitaeten
-- HRV-Informant (Heilender Reit Verein) - Informant-Mitarbeiter geschleust seit 11.03.
 
 Forensische Dokumentation
 Die Untersuchung hat folgende Dokumentationen erbracht:
