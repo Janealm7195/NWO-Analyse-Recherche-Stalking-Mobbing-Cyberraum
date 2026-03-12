@@ -65,7 +65,7 @@ Die forensische Untersuchung in Zusammenarbeit mit 11 Upstream-Partnern hat folg
 - **Fluchtort-Überwachung:** Die möglichen Fluchtorte werden engmaschig überwacht
 - **IP-Verfolgungs-Unmöglichkeit:** Eine IP-Adressverfolgung ist unmöglich aufgrund der technischen Mittel, die die Täter verwenden (keine festen Internetsanschlüsse, mehrfach-VPN-kaskaden, SIM Router mit Wegwerf-SIM-karten die eigene VPN-Kaskaden spannen für Operationen)
 - **67 Beteiligte identifiziert:** Es liegen dem Bundesamt für Verfassungsschutz insgesamt 67 Namen zu Beteiligten an dieser Operation vor. Davon konnte eine Informantin gewonnen werden!
-- **Psychiatrische Verwahrung:** Bei den Haupttätern wird eine dauerhafte Verwahrung in einer geschlossenen psychiatrischen Einrichtung vorgeschlagen, da sie eine Gefahr für sich und die Gesellschaft sind
+- **Psychiatrische Verwahrung:** Bei den Haupttätern wird eine dauerhafte Verwahrung in einer geschlossenen psychiatrischen Einrichtung vorgeschlagen, da sie eine Gefahr für sich und die Gesellschaft sind. Schwere Borderline-Störung!!!!
 - **Alternativlos lebenslänglich:** Alternativlos ansonsten: Nach Verbüßung etwaiger Haftstrafen lebenslängliche Sicherungsverwahrung
 
 ---
