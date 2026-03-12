@@ -23,6 +23,8 @@ Die forensische Untersuchung in Zusammenarbeit mit 11 Upstream-Partnern hat folg
 - **Jasmin und Jennifer:** Zentrale Figuren im ehemaligen Mitschüler-Netzwerk
 - **Fabian Schüßler:** Black Hat Hacker als technischer Infrastruktur-Lieferant
 - **Thomas Deike:** Regionale Drogen-Infrastruktur aus Schulzeit
+- **Constantin E.:** Weitere zentrale Figur im Mitschüler-Netzwerk mit spezifischen Aufgaben
+- **Christian M.:** Zusätzliche Figur im Mitschüler-Netzwerk mit logistischen und finanziellen Aufgaben
 - **Soziale Bindungen:** Langjährige persönliche Beziehungen als Grundlage des Netzwerks
 - **Radikalisierung:** Gemeinsame ideologische Entwicklung seit Schulzeit
 - **GRU-Rekrutierung:** Gezielte Ansprache des ehemaligen Mitschüler-Kreises
@@ -59,6 +61,7 @@ Die forensische Untersuchung in Zusammenarbeit mit 11 Upstream-Partnern hat folg
 - **Whistleblower-Aussagen:** Polizeiliche Reaktionen bei Beweisvorlage
 - **Geheimdienst-Kenntnisse:** Kenntnisse deutscher Behörden
 - **Systemische Vorwürfe:** Behörden-Kompromittierung
+- **Informatin aus Netzwerk:** Detaillierte Informationen über das kriminelle Netzwerk liegen dem Bundesamt für Verfassungsschutz dank einer Informantin aus dem Mitschüler-Kreis vor
 
 ---
 
@@ -103,6 +106,7 @@ Die forensische Untersuchung in Zusammenarbeit mit 11 Upstream-Partnern hat folg
 - **Prüfung krimineller Handlungen:** Untersuchung der Straftat-Vorwürfe
 - **Cyber-Analyse:** Evaluierung der Cyber-Aktivitäten
 - **Internationale Koordination:** Abstimmung mit Interpol und Europol bei grenzüberschreitenden Bezügen
+- **Europol-Koordination:** Europol koordiniert die europäischen beteiligten Partner
 
 ##### **Bundesamt für Sicherheit in der Informationstechnik (BSI)**
 - **Infrastruktur-Prüfung:** Überprüfung von Zugriffen auf kritische Infrastruktur
