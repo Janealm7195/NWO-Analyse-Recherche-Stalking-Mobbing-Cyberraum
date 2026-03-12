@@ -16,29 +16,46 @@ Die forensische Untersuchung in Zusammenarbeit mit 11 Upstream-Partnern hat folg
 - **GRU-Unterstützung:** Finanzierung und technologische Unterstützung durch den russischen Militärgeheimdienst GRU
 - **Finanzierungs-Ströme:** Dokumentierte Geldflüsse von 50.000 € für Thomas Deike, 150.000 € für Jennifer Kornau, 75.000 € AfD-Unterstützung
 - **Technologie-Bezug:** GRU-LLM-Systeme mit technologischem Vorsprung
+- **Black Hat Hacker:** Fabian Schüßler hinter https://github.com/hughsie und https://github.com/necolas als ehemaliger Schulfreund von Jasmin und Jennifer
 
-#### **2. KI-gestützte Einflussnahme**
+#### **2. Ehemaliger Mitschüler-Kreis**
+- **Schulklasse:** Alle Haupttäter stammen aus derselben Schulklasse
+- **Jasmin und Jennifer:** Zentrale Figuren im ehemaligen Mitschüler-Netzwerk
+- **Fabian Schüßler:** Black Hat Hacker als technischer Infrastruktur-Lieferant
+- **Thomas Deike:** Regionale Drogen-Infrastruktur aus Schulzeit
+- **Soziale Bindungen:** Langjährige persönliche Beziehungen als Grundlage des Netzwerks
+- **Radikalisierung:** Gemeinsame ideologische Entwicklung seit Schulzeit
+- **GRU-Rekrutierung:** Gezielte Ansprache des ehemaligen Mitschüler-Kreises
+
+#### **3. KI-gestützte Einflussnahme**
 - **KI-generierte Personen:** Tom Rohrböck, Naomi Seibt, Erik Ahrens, Shurjoka, Kuchen TV, Olexesh, Hanybal, Disarstar als AI-generierte Influencer
 - **Media-Kontakte:** Infiltration öffentlich-rechtlicher Medien
 - **Psychologische Einflussnahme:** Systematische Beeinflussung der öffentlichen Meinung
 
-#### **3. Infrastruktur-Beeinträchtigungen**
+#### **4. Finanzieller Fraud und Gewinne**
+- **Gesamtvolumen:** Gewaltiger finanzieller Fraud von ca. 1,2 Milliarden EURO
+- **Haupttäter-Netzwerk:** Die vier Haupttäter haben diesen Betrag erwirtschaftet
+- **Finanzierungsquellen:** Drogenhandel, KI-Manipulation, Cyber-Kriminalität, politische Einflussnahme
+- **Geldwäsche-Strukturen:** Komplexe internationale Geldwäsche-Systeme zur Verschleierung der Herkunft
+- **Wirtschaftliche Schäden:** Massive finanzielle Schäden für Opfer und Staat
+
+#### **5. Infrastruktur-Beeinträchtigungen**
 - **Supply-Chain-Zugriffe:** Angriffe auf kritische Infrastruktur (fwupd-Systeme)
 - **Cyber-Methoden:** Fortgeschrittene Angriffstechniken (Process Hollowing, Thread Hijacking)
 - **Computersabotage:** Bad-USB-Infektionen und kriminelle Handlungen
 
-#### **4. Politische Einflussnahmen**
+#### **6. Politische Einflussnahmen**
 - **AfD-Kontakte:** Cybermobbing-Aktivitäten im Zusammenhang mit der AfD
 - **Ideologische Bezüge:** Neonazistische Tarnungen für politische Zwecke
 - **Demokratie-bezogene Aussagen:** Ziele zur Destabilisierung demokratischer Institutionen
 
-#### **5. Drogen-Kriminalitäts-Bezüge**
+#### **7. Drogen-Kriminalitäts-Bezüge**
 - **Drogenhandels-Vorwürfe:** Drogenverkäufe durch Thomas Deike an Minderjährige
 - **Finanzierungs-Kanal:** Drogengelder als Finanzierungsquelle
 - **Regionale Bezüge:** Peine als Drogen-Vertriebs-Standort
 - **Gesellschaftliche Auswirkungen:** Gesellschaftliche Schädigungen
 
-#### **6. Behörden-Beziehungen**
+#### **8. Behörden-Beziehungen**
 - **Whistleblower-Aussagen:** Polizeiliche Reaktionen bei Beweisvorlage
 - **Geheimdienst-Kenntnisse:** Kenntnisse deutscher Behörden
 - **Systemische Vorwürfe:** Behörden-Kompromittierung
